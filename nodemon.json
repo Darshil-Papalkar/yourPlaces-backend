@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "placesReact",
+        "DB_PASSWORD": "placesReact",
+        "DB_NAME": "mern",
+        "API": "AIzaSyCPeL1U7nXsGCQzd1EczFeTjrMaVNu2Mbo",
+        "TOKEN_KEY": "superSecret_dont_share"
+    }
+}
